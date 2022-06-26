@@ -10,7 +10,9 @@
     
 **不要传无用的数据!!**    
 **不要传无用的数据!!**    
-**不要传无用的数据!!**    
+**不要传无用的数据!!**   
+    
+powershell中输入'write_number.exe num1 num2'可修改输出的图片图片大小为num1 * num1,控制台字体大小为num2,但最好为默认值
 # 使用
 暑假一定做出来!!    
 [bilibili传送门](https://space.bilibili.com/1234642275)
